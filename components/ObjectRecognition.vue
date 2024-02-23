@@ -1,4 +1,9 @@
-<script>
-import * as tf from '@tensorflow/tfjs';
+<template>
+  <div>
+ 
+  </div>
+</template>
+
+<script lang="ts">
 
 </script>
